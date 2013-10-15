@@ -29,3 +29,5 @@ SOURCES += BasicMesh.cpp \
            OBJWriter.cpp \
            RenderWidget.cpp \
            SetupWidget.cpp
+QT += opengl
+LIBS += -lGLU
