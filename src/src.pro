@@ -32,3 +32,4 @@ SOURCES += BasicMesh.cpp \
 QT += opengl
 LIBS += -lGLU
 TARGET = ../bin/IvyGenerator
+QMAKE_CLEAN = ../bin/IvyGenerator
