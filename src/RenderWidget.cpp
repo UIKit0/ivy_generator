@@ -20,6 +20,7 @@
 
 
 #include "RenderWidget.h"
+#include <GL/glu.h>
 #include "Common.h"
 #include <limits>
 
