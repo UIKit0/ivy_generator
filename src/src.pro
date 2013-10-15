@@ -31,3 +31,4 @@ SOURCES += BasicMesh.cpp \
            SetupWidget.cpp
 QT += opengl
 LIBS += -lGLU
+TARGET = ../bin/IvyGenerator
